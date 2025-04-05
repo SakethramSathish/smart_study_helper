@@ -1,1 +1,1 @@
-# smart_study_helper
+# Smart Study Helper
