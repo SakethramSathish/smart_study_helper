@@ -119,7 +119,7 @@ function ChatMode() {
   
     try {
       const response = await axios.post(
-        "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=AIzaSyBRYI95jDuX8gGWcI3iAgJhFF81O_2W-Dg",
+        "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=YOUR_API_KEY_HERE",
         {
           contents: [
             {
